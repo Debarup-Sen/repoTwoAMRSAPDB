@@ -1,0 +1,651 @@
+	Description	Source Organism	Target Organism	 % identity	 alignment length	 mismatches	 gap opens	 q. start	 q. end	 s. start	 s. end	 evalue	" bit score
+"	AMRSAPDB Accession
+0	I16E	Synthetic construct	"""MRSA (MIC >= 512 Î¼G/mL, MBC > 512 Î¼M)"""	100.000	25	0	0	1	25	1	25	1.39e-13	49.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP7"">AMRSAP7</a>"
+1	DC2	Synthetic construct	"""MRSA (MIC = 32 Î¼G/mL, MBC = 32 Î¼M)"""	95.652	23	1	0	1	23	1	23	3.58e-11	43.1	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP12"">AMRSAP12</a>"
+2	R18S/R21H	Synthetic construct	"""MRSA (MIC = 32 Î¼G/mL, MBC = 32 Î¼M)"""	88.000	25	3	0	1	25	1	25	7.31e-11	42.4	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP16"">AMRSAP16</a>"
+3	DC4	Synthetic construct	"""MRSA (MIC = 256 Î¼G/mL, MBC = 256 Î¼M)"""	95.238	21	1	0	1	21	1	21	6.73e-10	40.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP13"">AMRSAP13</a>"
+4	I16A	Synthetic construct	"""MRSA (MIC = 64 Î¼G/mL, MBC = 512 Î¼M)"""	95.000	20	1	0	1	20	1	20	1.24e-09	39.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP8"">AMRSAP8</a>"
+5	VHSH	Synthetic construct	"""MRSA (MIC = 16 Î¼G/mL, MBC = 32 Î¼M)"""	80.000	25	5	0	1	25	1	25	2.48e-09	38.5	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP17"">AMRSAP17</a>"
+6	TP4	Oreochromis niloticus	"""MRSA (MIC = 16 Î¼G/mL, MBC = 32 Î¼M)"""	95.000	20	1	0	1	20	1	20	3.12e-09	38.1	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP1"">AMRSAP1</a>"
+7	F1A/I2A	Synthetic construct	"""MRSA (MIC >= 512 Î¼G/mL, MBC > 512 Î¼M)"""	94.444	18	1	0	3	20	3	20	8.29e-08	34.7	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP2"">AMRSAP2</a>"
+8	DN2	Synthetic construct	"""MRSA (MIC >= 512 Î¼G/mL, MBC > 512 Î¼M)"""	94.444	18	1	0	3	20	1	18	8.92e-08	34.7	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP10"">AMRSAP10</a>"
+9	I5A/I6A	Synthetic construct	"""MRSA (MIC >= 512 Î¼G/mL, MBC > 512 Î¼M)"""	85.000	20	3	0	1	20	1	20	1.16e-07	34.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP4"">AMRSAP4</a>"
+10	H3A/H4A	Synthetic construct	"""MRSA (MIC = 128 Î¼G/mL, MBC = 256 Î¼M)"""	85.000	20	3	0	1	20	1	20	2.99e-07	33.1	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP3"">AMRSAP3</a>"
+11	L9A/F10A	Synthetic construct	"""MRSA (MIC >= 512 Î¼G/mL, MBC > 512 Î¼M)"""	85.000	20	3	0	1	20	1	20	3.19e-07	33.1	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP5"">AMRSAP5</a>"
+12	TP3	Synthetic construct	"""MRSA (MIC = 256 Î¼G/mL, MBC > 512 Î¼M)"""	76.190	21	5	0	1	21	1	21	7.23e-07	32.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP18"">AMRSAP18</a>"
+13	L19H/I20H	Synthetic construct	"""MRSA (MIC >= 512 Î¼G/mL, MBC > 512 Î¼M)"""	100.000	15	0	0	1	15	1	15	7.51e-07	32.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP9"">AMRSAP9</a>"
+14	I16R	Synthetic construct	"""MRSA (MIC >= 512 Î¼G/mL, MBC > 512 Î¼M)"""	100.000	15	0	0	1	15	1	15	7.59e-07	32.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP6"">AMRSAP6</a>"
+15	DN4	Synthetic construct	"""MRSA (MIC = 64 Î¼G/mL, MBC = 256 Î¼M)"""	93.750	16	1	0	5	20	1	16	4.41e-06	30.4	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP11"">AMRSAP11</a>"
+16	A12V/A15H	Synthetic construct	"""MRSA (MIC = 32 Î¼G/mL, MBC = 64 Î¼M)"""	92.857	14	1	0	1	14	1	14	1.30e-05	29.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP14"">AMRSAP14</a>"
+17	A12I/A15I	Synthetic construct	"""MRSA (MIC = 64 Î¼G/mL, MBC = 256 Î¼M)"""	92.857	14	1	0	1	14	1	14	2.42e-05	28.5	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP15"">AMRSAP15</a>"
+18	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-22 (MIC = 8 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP193"">AMRSAP193</a>"
+19	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-21 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP192"">AMRSAP192</a>"
+20	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-20 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP191"">AMRSAP191</a>"
+21	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-19 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP190"">AMRSAP190</a>"
+22	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-18 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP189"">AMRSAP189</a>"
+23	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-17 (MIC = 8 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP188"">AMRSAP188</a>"
+24	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-16 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP187"">AMRSAP187</a>"
+25	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-15 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP186"">AMRSAP186</a>"
+26	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-14 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP185"">AMRSAP185</a>"
+27	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-13 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP184"">AMRSAP184</a>"
+28	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-12 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP183"">AMRSAP183</a>"
+29	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-11 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP182"">AMRSAP182</a>"
+30	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-10 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP181"">AMRSAP181</a>"
+31	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-9 (MIC = 32 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP180"">AMRSAP180</a>"
+32	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-8 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP179"">AMRSAP179</a>"
+33	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-7 (MIC = 8 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP178"">AMRSAP178</a>"
+34	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-6 (MIC = 8 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP177"">AMRSAP177</a>"
+35	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-5 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP176"">AMRSAP176</a>"
+36	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-4 (MIC = 8 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP175"">AMRSAP175</a>"
+37	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-3 (MIC = 32 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP174"">AMRSAP174</a>"
+38	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-2 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP173"">AMRSAP173</a>"
+39	Epinecidin-1	Epinephelus coioides	Bacterial isolate MRSA-1 (MIC = 16 mg/L)	65.000	20	7	0	1	20	2	21	4.73e-04	25.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP172"">AMRSAP172</a>"
+40	Moronecidin	Lates calcarifer	Staphylococcus aureus(MRSA) (MIC = 2.34 Î¼G/mL)	50.000	20	10	0	1	20	1	20	0.006	22.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP140"">AMRSAP140</a>"
+41	G18P-Chr-1	Synthetic construct	Staphylococcus aureus (ATCC 700699 MRSA) (MIC = 3 Î¼M)	54.167	24	11	0	1	24	1	24	0.006	22.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP62"">AMRSAP62</a>"
+42	G18P-Chr-1	Synthetic construct	Staphylococcus aureus (ATCC 700698 MRSA) (MIC = 3 Î¼M)	54.167	24	11	0	1	24	1	24	0.006	22.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP61"">AMRSAP61</a>"
+43	Moronecidin	Morone saxatilis	"""S.aureus MRSA (MIC = 1.25-2.5 Î¼M, MBC = 1.25-2.5 Î¼M)"""	50.000	20	10	0	1	20	1	20	0.007	22.3	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP896"">AMRSAP896</a>"
+44	Moronecidin	Morone chrysops	"""S.aureus MRSA (MIC = 1.25-2.5 Î¼M, MBC = 1.25-2.5 Î¼M)"""	45.000	20	11	0	1	20	1	20	0.017	21.2	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP895"">AMRSAP895</a>"
+45	Moronecidin	Morone saxatilis	"""S.aureus MRSA (MIC = 1.25-2.5 Î¼M, MBC = 1.25-2.5 Î¼M)"""	45.000	20	11	0	1	20	1	20	0.021	20.8	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP898"">AMRSAP898</a>"
+46	CeHS-1 GP	Synthetic construct	"""MRSA (MIC = 128 Î¼G/mL, MBC = 128 Î¼G/mL)"""	36.842	19	12	0	3	21	16	34	0.045	20.4	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP474"">AMRSAP474</a>"
+47	Moronecidin	Morone chrysops	"""S.aureus MRSA (MIC = 1.25-2.5 Î¼M, MBC = 1.25-2.5 Î¼M)"""	40.000	20	12	0	1	20	1	20	0.054	20.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP897"">AMRSAP897</a>"
+48	G8P-Chr-1	Synthetic construct	Staphylococcus aureus (ATCC 700699 MRSA) (MIC = 1.6 Î¼M)	76.923	13	3	0	12	24	12	24	0.080	19.6	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP58"">AMRSAP58</a>"
+49	G8P-Chr-1	Synthetic construct	Staphylococcus aureus (ATCC 700698 MRSA) (MIC = 1.6 Î¼M)	76.923	13	3	0	12	24	12	24	0.080	19.6	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP57"">AMRSAP57</a>"
+50	CeHS-1 GPK	Synthetic construct	"""MRSA (MIC = 128 Î¼G/mL, MBC = 128 Î¼G/mL)"""	36.842	19	12	0	3	21	16	34	0.099	19.2	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP475"">AMRSAP475</a>"
+51	Nigrocin-2ISb	Odorrana ishikawae	MRSA ATCC 43300 (MIC = 12.5 Î¼M)	54.545	11	5	0	5	15	2	12	5.2	15.0	"<a target=""_blank"" href=""https://bblserver.org.in/AMRSAP/entry?id=AMRSAP924"">AMRSAP924</a>"
+
+
+Alignments:
+>AMRSAP7
+Length=25
+
+ Score = 49.3 bits (116),  Expect = 1e-13, Method: Compositional matrix adjust.
+ Identities = 25/25 (100%), Positives = 25/25 (100%), Gaps = 0/25 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIRRRRR  25
+           FIHHIIGGLFSAGKAEHRLIRRRRR
+Sbjct  1   FIHHIIGGLFSAGKAEHRLIRRRRR  25
+
+
+>AMRSAP12
+Length=23
+
+ Score = 43.1 bits (100),  Expect = 4e-11, Method: Compositional matrix adjust.
+ Identities = 22/23 (96%), Positives = 22/23 (96%), Gaps = 0/23 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIRRR  23
+           FIHHIIGGLFSAGKA HRLIRRR
+Sbjct  1   FIHHIIGGLFSAGKAIHRLIRRR  23
+
+
+>AMRSAP16
+Length=25
+
+ Score = 42.4 bits (98),  Expect = 7e-11, Method: Compositional matrix adjust.
+ Identities = 22/25 (88%), Positives = 22/25 (88%), Gaps = 0/25 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIRRRRR  25
+           FIHHIIGGLFSAGKA H LI RRRR
+Sbjct  1   FIHHIIGGLFSAGKAIHSLIHRRRR  25
+
+
+>AMRSAP13
+Length=21
+
+ Score = 40.0 bits (92),  Expect = 7e-10, Method: Compositional matrix adjust.
+ Identities = 20/21 (95%), Positives = 20/21 (95%), Gaps = 0/21 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIR  21
+           FIHHIIGGLFSAGKA HRLIR
+Sbjct  1   FIHHIIGGLFSAGKAIHRLIR  21
+
+
+>AMRSAP8
+Length=25
+
+ Score = 39.3 bits (90),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 19/20 (95%), Positives = 19/20 (95%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FIHHIIGGLFSAGKA HRLI
+Sbjct  1   FIHHIIGGLFSAGKAAHRLI  20
+
+
+>AMRSAP17
+Length=25
+
+ Score = 38.5 bits (88),  Expect = 2e-09, Method: Compositional matrix adjust.
+ Identities = 20/25 (80%), Positives = 20/25 (80%), Gaps = 0/25 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIRRRRR  25
+           FIHHIIGGLFS GK  H LI RRRR
+Sbjct  1   FIHHIIGGLFSVGKHIHSLIHRRRR  25
+
+
+>AMRSAP1
+Length=25
+
+ Score = 38.1 bits (87),  Expect = 3e-09, Method: Compositional matrix adjust.
+ Identities = 19/20 (95%), Positives = 19/20 (95%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FIHHIIGGLFSAGKA HRLI
+Sbjct  1   FIHHIIGGLFSAGKAIHRLI  20
+
+
+>AMRSAP2
+Length=25
+
+ Score = 34.7 bits (78),  Expect = 8e-08, Method: Compositional matrix adjust.
+ Identities = 17/18 (94%), Positives = 17/18 (94%), Gaps = 0/18 (0%)
+
+Query  3   HHIIGGLFSAGKAEHRLI  20
+           HHIIGGLFSAGKA HRLI
+Sbjct  3   HHIIGGLFSAGKAIHRLI  20
+
+
+>AMRSAP10
+Length=23
+
+ Score = 34.7 bits (78),  Expect = 9e-08, Method: Compositional matrix adjust.
+ Identities = 17/18 (94%), Positives = 17/18 (94%), Gaps = 0/18 (0%)
+
+Query  3   HHIIGGLFSAGKAEHRLI  20
+           HHIIGGLFSAGKA HRLI
+Sbjct  1   HHIIGGLFSAGKAIHRLI  18
+
+
+>AMRSAP4
+Length=25
+
+ Score = 34.3 bits (77),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 17/20 (85%), Positives = 17/20 (85%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FIHH  GGLFSAGKA HRLI
+Sbjct  1   FIHHAAGGLFSAGKAIHRLI  20
+
+
+>AMRSAP3
+Length=25
+
+ Score = 33.1 bits (74),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 17/20 (85%), Positives = 17/20 (85%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI  IIGGLFSAGKA HRLI
+Sbjct  1   FIAAIIGGLFSAGKAIHRLI  20
+
+
+>AMRSAP5
+Length=25
+
+ Score = 33.1 bits (74),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 17/20 (85%), Positives = 17/20 (85%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FIHHIIGG  SAGKA HRLI
+Sbjct  1   FIHHIIGGAASAGKAIHRLI  20
+
+
+>AMRSAP18
+Length=23
+
+ Score = 32.3 bits (72),  Expect = 7e-07, Method: Compositional matrix adjust.
+ Identities = 16/21 (76%), Positives = 16/21 (76%), Gaps = 0/21 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIR  21
+           FIHHIIGGLFS GK  H LI 
+Sbjct  1   FIHHIIGGLFSVGKHIHSLIH  21
+
+
+>AMRSAP9
+Length=25
+
+ Score = 32.3 bits (72),  Expect = 8e-07, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+
+Query  1   FIHHIIGGLFSAGKA  15
+           FIHHIIGGLFSAGKA
+Sbjct  1   FIHHIIGGLFSAGKA  15
+
+
+>AMRSAP6
+Length=25
+
+ Score = 32.3 bits (72),  Expect = 8e-07, Method: Compositional matrix adjust.
+ Identities = 15/15 (100%), Positives = 15/15 (100%), Gaps = 0/15 (0%)
+
+Query  1   FIHHIIGGLFSAGKA  15
+           FIHHIIGGLFSAGKA
+Sbjct  1   FIHHIIGGLFSAGKA  15
+
+
+>AMRSAP11
+Length=21
+
+ Score = 30.4 bits (67),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 15/16 (94%), Positives = 15/16 (94%), Gaps = 0/16 (0%)
+
+Query  5   IIGGLFSAGKAEHRLI  20
+           IIGGLFSAGKA HRLI
+Sbjct  1   IIGGLFSAGKAIHRLI  16
+
+
+>AMRSAP14
+Length=25
+
+ Score = 29.3 bits (64),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+
+Query  1   FIHHIIGGLFSAGK  14
+           FIHHIIGGLFS GK
+Sbjct  1   FIHHIIGGLFSVGK  14
+
+
+>AMRSAP15
+Length=25
+
+ Score = 28.5 bits (62),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 13/14 (93%), Positives = 13/14 (93%), Gaps = 0/14 (0%)
+
+Query  1   FIHHIIGGLFSAGK  14
+           FIHHIIGGLFS GK
+Sbjct  1   FIHHIIGGLFSIGK  14
+
+
+>AMRSAP193
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP192
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP191
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP190
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP189
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP188
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP187
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP186
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP185
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP184
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP183
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP182
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP181
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP180
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP179
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP178
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP177
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP176
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP175
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP174
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP173
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP172
+Length=21
+
+ Score = 25.0 bits (53),  Expect = 5e-04, Method: Compositional matrix adjust.
+ Identities = 13/20 (65%), Positives = 14/20 (70%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           FI HII GLF AGK  H L+
+Sbjct  2   FIFHIIKGLFHAGKMIHGLV  21
+
+
+>AMRSAP140
+Length=22
+
+ Score = 22.3 bits (46),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 10/20 (50%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           F HHI  G+   GK  HRL+
+Sbjct  1   FFHHIFRGIVHVGKTIHRLV  20
+
+
+>AMRSAP62
+Length=25
+
+ Score = 22.3 bits (46),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 13/24 (54%), Positives = 14/24 (58%), Gaps = 0/24 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIRRRR  24
+           F   +I G   AGKA H LI RRR
+Sbjct  1   FFGWLIKGAIHAGKAIHPLIHRRR  24
+
+
+>AMRSAP61
+Length=25
+
+ Score = 22.3 bits (46),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 13/24 (54%), Positives = 14/24 (58%), Gaps = 0/24 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLIRRRR  24
+           F   +I G   AGKA H LI RRR
+Sbjct  1   FFGWLIKGAIHAGKAIHPLIHRRR  24
+
+
+>AMRSAP896
+Length=23
+
+ Score = 22.3 bits (46),  Expect = 0.007, Method: Compositional matrix adjust.
+ Identities = 10/20 (50%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           F HHI  G+   GK  HRL+
+Sbjct  1   FFHHIFRGIVHVGKTIHRLV  20
+
+
+>AMRSAP895
+Length=23
+
+ Score = 21.2 bits (43),  Expect = 0.017, Method: Compositional matrix adjust.
+ Identities = 9/20 (45%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           F HHI  G+   GK  H+L+
+Sbjct  1   FFHHIFRGIVHVGKTIHKLV  20
+
+
+>AMRSAP898
+Length=23
+
+ Score = 20.8 bits (42),  Expect = 0.021, Method: Compositional matrix adjust.
+ Identities = 9/20 (45%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           F HHI  G+   G+  HRL+
+Sbjct  1   FFHHIFRGIVHVGRTIHRLV  20
+
+
+>AMRSAP474
+Length=38
+
+ Score = 20.4 bits (41),  Expect = 0.045, Method: Compositional matrix adjust.
+ Identities = 7/19 (37%), Positives = 13/19 (68%), Gaps = 0/19 (0%)
+
+Query  3   HHIIGGLFSAGKAEHRLIR  21
+           ++I+GG+  AG   H+L +
+Sbjct  16  NNILGGMAKAGPVVHKLAK  34
+
+
+>AMRSAP897
+Length=23
+
+ Score = 20.0 bits (40),  Expect = 0.054, Method: Compositional matrix adjust.
+ Identities = 8/20 (40%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  1   FIHHIIGGLFSAGKAEHRLI  20
+           F HHI  G+   G+  H+L+
+Sbjct  1   FFHHIFRGIVHVGRTIHKLV  20
+
+
+>AMRSAP58
+Length=25
+
+ Score = 19.6 bits (39),  Expect = 0.080, Method: Compositional matrix adjust.
+ Identities = 10/13 (77%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  12  AGKAEHRLIRRRR  24
+           AGKA H LI RRR
+Sbjct  12  AGKAIHGLIHRRR  24
+
+
+>AMRSAP57
+Length=25
+
+ Score = 19.6 bits (39),  Expect = 0.080, Method: Compositional matrix adjust.
+ Identities = 10/13 (77%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  12  AGKAEHRLIRRRR  24
+           AGKA H LI RRR
+Sbjct  12  AGKAIHGLIHRRR  24
+
+
+>AMRSAP475
+Length=38
+
+ Score = 19.2 bits (38),  Expect = 0.099, Method: Compositional matrix adjust.
+ Identities = 7/19 (37%), Positives = 12/19 (63%), Gaps = 0/19 (0%)
+
+Query  3   HHIIGGLFSAGKAEHRLIR  21
+           + I+GG+  AG   H+L +
+Sbjct  16  NKILGGMAKAGPVVHKLAK  34
+
+
+>AMRSAP924
+Length=21
+
+ Score = 15.0 bits (27),  Expect = 5.2, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  5   IIGGLFSAGKA  15
+           I+G +F AGK 
+Sbjct  2   ILGTVFKAGKG  12
+
+
+
+Lambda      K        H        a         alpha
+   0.341    0.153    0.478    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 791050
+
+
+  Database: AMRSAPDB
+    Posted date:  Jan 12, 2024  1:06 PM
+  Number of letters in database: 31,642
+  Number of sequences in database:  1,707
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
