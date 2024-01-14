@@ -1,0 +1,4 @@
+scikit-bio
+peptides
+biopython
+propy3
