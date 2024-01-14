@@ -30,7 +30,7 @@ tool = lit.radio(
      'Needleman-Wunsch (Global Pairwise Alignment)', 'Smith-Waterman (Local Pairwise Alignment)'))
 
 if 'BLASTp' in tool:
-    query = lit.text_area('Enter your input protein sequence (in FASTA/multi-FASTA format/plain text sequence format/AMRSAPDB Acc. ID, e.g. AMRSAP_111) here',
+    query = lit.text_area('Enter your input protein sequence (in FASTA/multi-FASTA format/plain text sequence format/AMRSAPDB Acc. ID, e.g. AMRSAP1) here',
                           height=200).upper()
     query = query.replace(' ', '')
     file_query = lit.file_uploader("Or, you may upload file")#, label_visibility="collapsed")
@@ -61,7 +61,7 @@ if 'BLASTp' in tool:
 
 
     lit.text('Customization parameters & choices:')
-    command = 'wsl blastp -query blast_input.txt '
+    command = 'blastp -query blast_input.txt '
     task = 'blastp'
 ##    task = lit.radio("Type of task:",
 ##                     ('blastp',
