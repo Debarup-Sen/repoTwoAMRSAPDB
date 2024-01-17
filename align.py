@@ -209,7 +209,7 @@ if 'BLASTp' in tool:
                                 data[i] = (
                                             [line[1]] +
                                             [line[4]] +
-                                            [line[6]] +
+                                            [line[6].replace('"', '')] +
                                             data[i][2:] +
                                             [
                                                 (
