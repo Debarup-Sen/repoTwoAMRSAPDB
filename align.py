@@ -166,8 +166,8 @@ if 'BLASTp' in tool:
                                 query = None
                                 break
                             j = i.split('\t')
-                            if k in j[1]:
-                                g.write('>'+k+'\n'+j[3]+'\n')
+                            if k in j[0]:
+                                g.write('>'+k+'\n'+j[2]+'\n')
                                 break
             elif query:
                 open('blast_input.txt', 'w').write(query)
