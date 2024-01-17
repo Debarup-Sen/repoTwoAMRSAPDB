@@ -214,7 +214,7 @@ if 'BLASTp' in tool:
                                             [
                                                 (
                                                     f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/non-clinical/non-clinical-entry?id={accs}&db=non_clinical">{accs}</a>'
-                                                    if "FCS" in accs
+                                                    if dataset == "Non-clinical Dataset"
                                                     else f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/clinical/clinical-entry?id={accs}&db=clinical">{accs}</a>'
                                                 )
                                             ]
