@@ -213,9 +213,9 @@ if 'BLASTp' in tool:
                                             data[i][2:] +
                                             [
                                                 (
-                                                    f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/clinical/clinical-entry?id={accs}&db=clinical">{accs}</a>'
+                                                    f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/non-clinical/non-clinical-entry?id={accs}&db=non_clinical">{accs}</a>'
                                                     if "FCS" in accs
-                                                    else f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/non-clinical/non-clinical-entry?id={accs}&db=non_clinical">{accs}</a>'
+                                                    else f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/clinical/clinical-entry?id={accs}&db=clinical">{accs}</a>'
                                                 )
                                             ]
                                           )
