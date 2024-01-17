@@ -212,7 +212,11 @@ if 'BLASTp' in tool:
                                             [line[6]] +
                                             data[i][2:] +
                                             [
-                                                f'<a target="_blank" href="https://bblserver.org.in/AMRSAP/entry?id={accs}">{accs}</a>' #f"[{accs[0]}](https://bblserver.org.in/AMRSAP/entry?id={accs[0]})",
+                                                (
+                                                    f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/non-clinical/non-clinical-entry?id={accs}&db=non_clinical">{accs}</a>'
+                                                    if dataset == "Non-clinical Dataset"
+                                                    else f'<a target="_blank" href="https://bblserver.org.in/tamrsar/amrsapdb/clinical/clinical-entry?id={accs}&db=clinical">{accs}</a>'
+                                                )
                                             ]
                                           )
                                 break
