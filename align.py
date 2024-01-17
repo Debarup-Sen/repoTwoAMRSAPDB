@@ -144,7 +144,7 @@ if 'BLASTp' in tool:
             if query and 'AMRSAPFCS' in query and '>' not in query:
                 check = [i for i in query.split('\n') if i!= '']
                 for i in check:
-                    if '_' not in i and i.isalnum():
+                    if '_' in i and i.isalnum():
                         lit.info('If you are trying to enter AMRSAPFCS Acc. ID, please make sure it is in correct format (e.g. AMRSAPFCS1)')
                         query = None
                         break
