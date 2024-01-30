@@ -37,7 +37,7 @@ elif my_input and submit:
     if ('AMRSAP' or 'AMRSAPFCS') not in my_input and my_input.isalpha() is False:
         lit.error("Some non-alphabet is present in the sequence. Please re-check!")
     elif (('AMRSAP' or 'AMRSAPFCS') in my_input) and (re.sub('\d', '', my_input) != ('AMRSAP' or 'AMRSAPFCS')):
-        lit.error(re.sub('\d', '', my_input))
+        lit.error(my_input if ('AMRSAP' or 'AMRSAPFCS') in my_input else 'No')
         lit.error("Some unrecognized character is present in the Acc. ID. Please re-check!")
     else:
         if ('AMRSAP' or 'AMRSAPFCS') in my_input:
