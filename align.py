@@ -16,7 +16,7 @@ from io import StringIO
 lit.set_page_config(layout='wide', page_title="AMRSAP")
 
 lit.write("""
-# Welcome to the AMRSAP Sequence Alignment Toolbox!
+# Welcome to the AMRSAPDB Sequence Alignment Toolbox!
 *A toolbox for all alignment purposes.*
 
 """)
